@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+  }
+  main{
+      display: block;
+  }
+  body{
+    margin: auto;
+    box-sizing: border-box;
+    display: grid;
+    width: 1249px;
+  }
+.header1 {
+    box-sizing: border-box;
+    text-align: center;
+    font-family: Arial;
+    font-size: 40px;
+    line-height: 56px;
+    margin-top: 25px;
+    margin-left: 4;
+    padding-left: 450px;
+    padding-right: 450px;
+    color: #000000;
+
+}
+.imagen{
+    padding-left: 15%;
+    size: 20px;
+}
+
